@@ -7,8 +7,9 @@ This is an example repo for two Header-only JPEG Read/Write Libraries.
     g++ rotate.cpp -o rotate
     ./rotate input.jpg output.jpg
     
-| input.jpg | output.jpg | 
-|![image](https://github.com/pppoe/Example-HeaderOnly-JPEG/raw/master/images/input.jpg)|![image](https://github.com/pppoe/Example-HeaderOnly-JPEG/raw/master/images/output.jpg)|
+| input.jpg | output.jpg |
+| ------------- | ------------- |
+|![image](https://github.com/pppoe/Example-HeaderOnly-JPEG/blob/master/input.jpg)|![image](https://github.com/pppoe/Example-HeaderOnly-JPEG/blob/master/output.jpg)|
 
 # Credits
 
